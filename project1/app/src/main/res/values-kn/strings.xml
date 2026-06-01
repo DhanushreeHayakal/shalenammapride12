@@ -1,0 +1,19 @@
+<resources>
+
+    <string name="app_name">ಶಾಲೆ-ನಮ್ಮ ಪ್ರೈಡ್</string>
+
+    <string name="daily_meal">ಇಂದಿನ ಊಟ</string>
+
+    <string name="facility_tour">ಸೌಲಭ್ಯಗಳ ವೀಕ್ಷಣೆ</string>
+
+    <string name="student_stars">ವಿದ್ಯಾರ್ಥಿ ಸಾಧಕರು</string>
+
+    <string name="feedback">ಪ್ರತಿಕ್ರಿಯೆ</string>
+
+    <string name="todays_meal">ಇಂದಿನ ಊಟ</string>
+
+    <string name="school_facilities">ಶಾಲಾ ಸೌಲಭ್ಯಗಳು</string>
+
+    <string name="parent_feedback">ಪೋಷಕರ ಪ್ರತಿಕ್ರಿಯೆ</string>
+
+</resources>

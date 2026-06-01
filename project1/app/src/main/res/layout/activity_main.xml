@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F5F5F5">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:padding="24dp">
+
+        <ImageView
+            android:layout_width="140dp"
+            android:layout_height="140dp"
+            android:src="@mipmap/ic_launcher"
+            android:layout_marginTop="20dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/app_name"
+            android:textSize="30sp"
+            android:textStyle="bold"
+            android:textColor="#2E7D32"
+            android:layout_marginTop="20dp"/>
+
+        <Button
+            android:id="@+id/btnMeal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/daily_meal"
+            android:textSize="20sp"
+            android:minHeight="60dp"
+            android:layout_marginTop="30dp"/>
+
+        <Button
+            android:id="@+id/btnFacility"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/facility_tour"
+            android:textSize="20sp"
+            android:minHeight="60dp"
+            android:layout_marginTop="15dp"/>
+
+        <Button
+            android:id="@+id/btnStars"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/student_stars"
+            android:textSize="20sp"
+            android:minHeight="60dp"
+            android:layout_marginTop="15dp"/>
+
+        <Button
+            android:id="@+id/btnFeedback"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/feedback"
+            android:textSize="20sp"
+            android:minHeight="60dp"
+            android:layout_marginTop="15dp"/>
+
+    </LinearLayout>
+
+</ScrollView>

@@ -1,0 +1,19 @@
+<resources>
+
+    <string name="app_name">Shale-Namma Pride</string>
+
+    <string name="daily_meal">Daily_Meal</string>
+
+    <string name="facility_tour">Facility_Tour</string>
+
+    <string name="student_stars">Student_Stars</string>
+
+    <string name="feedback">Feedback</string>
+
+    <string name="todays_meal">Today_s Meal</string>
+
+    <string name="school_facilities">School_Facilities</string>
+
+    <string name="parent_feedback">Parent_Feedback</string>
+
+</resources>
